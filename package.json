@@ -1,0 +1,30 @@
+{
+  "name": "resolve-relative-url",
+  "version": "1.0.0",
+  "main": "./lib.js",
+  "description": "Resolve a possibly relative URL agains a source URL",
+  "dependencies": {
+    "url": "0.10.x"
+  },
+  "devDependencies": {
+    "nodeunit": "0.9.x"
+  },
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eiriklv/resolve-relative-url.git"
+  },
+  "keywords": [
+    "resolve",
+    "relative",
+    "url"
+  ],
+  "author": "Eirik Vullum <evullum@gmail.com> (http://www.evconsult.no/)",
+  "bugs": {
+    "url": "https://github.com/eiriklv/resolve-relative-url/issues"
+  },
+  "homepage": "https://github.com/eiriklv/resolve-relative-url",
+  "license": "MIT"
+}
