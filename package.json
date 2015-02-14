@@ -19,7 +19,8 @@
   "keywords": [
     "resolve",
     "relative",
-    "url"
+    "url",
+    "link"
   ],
   "author": "Eirik Vullum <evullum@gmail.com> (http://www.evconsult.no/)",
   "bugs": {
